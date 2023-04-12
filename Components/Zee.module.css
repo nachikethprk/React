@@ -1,0 +1,19 @@
+#aa{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 0, 0);
+}
+
+#aa ul{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+    list-style: none;
+    width: 1000px;
+
+}
+
+#aa ul li a{
+    text-decoration: none;
+    color: bisque;
+}

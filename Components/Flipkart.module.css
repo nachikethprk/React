@@ -1,0 +1,28 @@
+#aa{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(52, 27, 76);
+}
+
+#aa ul{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+    list-style: none;
+    width: 1000px;
+
+}
+
+#aa ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+
+
+
+/* #bb{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+    list-style: none;
+} */
