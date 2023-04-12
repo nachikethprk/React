@@ -1,0 +1,35 @@
+[
+    {
+        "name":"krish",
+        "class":"9th",
+        "sec":"A",
+        "school":"rama",
+        "place":"tumkur"
+    }
+    ,
+    {
+        "name":"hem",
+        "class":"10th",
+        "sec":"B",
+        "school":"chethana",
+        "place":"gubbi"
+    }
+    ,
+    {
+        "name":"sharath",
+        "class":"5th",
+        "sec":"A",
+        "school":"rama",
+        "place":"rajajinagar"
+    }
+    ,
+    {
+        "name":"hari",
+        "class":"6th",
+        "sec":"B",
+        "school":"narayana",
+        "place":"delhi"
+    }
+    
+
+]
