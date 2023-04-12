@@ -1,0 +1,10 @@
+import React from "react";
+const  Div=()=>
+{
+    return(
+        <div>
+        <form action=""></form>
+        </div>
+    )
+}
+export default Div
